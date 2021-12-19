@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/vishwa/Desktop/College/Academics/Semester 6 Summer 2021/Data Structures and Algorithms/Gator AVL Project"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/vishwa/Desktop/College/Academics/Semester 6 Summer 2021/Data Structures and Algorithms/Gator AVL Project/cmake-build-debug

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vishwa/Desktop/College/Academics/Semester 6 Summer 2021/Data Structures and Algorithms/Gator AVL Project/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+
